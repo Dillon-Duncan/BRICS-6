@@ -29,7 +29,7 @@ To get started with the Brics Banking application, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Dillon-Duncan/brics-banking.git
+   git clone [https://github.com/Dillon-Duncan/brics-banking.git](https://github.com/Dillon-Duncan/BRICS-6.git)
    cd brics-banking
    ```
 
