@@ -1,0 +1,3 @@
+[submodule "brics-banking"]
+	path = brics-banking
+	url = https://github.com/Dillon-Duncan/brics-banking.git
