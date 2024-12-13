@@ -33,30 +33,36 @@ To get started with the Brics Banking application, follow these steps:
    cd brics-banking
    ```
 
-2. **Install dependencies for both the frontend and backend:**
+   or
+
+   open with visual studio
+   copy path
+   open with visual studio code
+
+3. **Install dependencies for both the frontend and backend:**
 
    ```bash
+   cd brics-banking
    npm install
    cd backend
    npm install
-   cd ..
    ```
 
-3. **Start the backend server:**
+4. **Start the backend server:**
 
    ```bash
    cd backend
    npm start
    ```
 
-4. **Start the frontend development server:**
+5. **Start the frontend development server:**
 
    ```bash
-   cd ..
+   cd brics-banking
    npm start
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+6. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
 ---
 
